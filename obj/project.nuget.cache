@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6hkv141FiX4CBDxNodOopDxn9CNGkCiTp/O09c46dHzyCSP3+VCcJQo/qE8boIqqJhC8up5M0enWhWcEGHcAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jimcapello\\source\\repos\\asteroids\\asteroids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jimcapello\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\jimcapello\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
