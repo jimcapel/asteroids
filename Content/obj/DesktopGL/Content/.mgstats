@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jimcapello/source/repos/asteroids/Content/asteroid_large.png","C:/Users/jimcapello/source/repos/asteroids/Content/bin/DesktopGL/Content/asteroid_large.xnb","TextureProcessor","Texture2DContent",694,16469,0.1336101
+"C:/Users/jimcapello/source/repos/asteroids/Content/asteroid_medium.png","C:/Users/jimcapello/source/repos/asteroids/Content/bin/DesktopGL/Content/asteroid_medium.xnb","TextureProcessor","Texture2DContent",526,16469,0.005674
+"C:/Users/jimcapello/source/repos/asteroids/Content/asteroid_ship.png","C:/Users/jimcapello/source/repos/asteroids/Content/bin/DesktopGL/Content/asteroid_ship.xnb","TextureProcessor","Texture2DContent",529,16469,0.1284953
+"C:/Users/jimcapello/source/repos/asteroids/Content/asteroid_small.png","C:/Users/jimcapello/source/repos/asteroids/Content/bin/DesktopGL/Content/asteroid_small.xnb","TextureProcessor","Texture2DContent",426,16469,0.0016627
